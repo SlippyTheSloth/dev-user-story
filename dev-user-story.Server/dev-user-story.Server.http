@@ -1,0 +1,6 @@
+@dev_user_story.Server_HostAddress = http://localhost:5237
+
+GET {{dev_user_story.Server_HostAddress}}/sortNumbers/
+Accept: application/json
+
+###
